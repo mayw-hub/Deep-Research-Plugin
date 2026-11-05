@@ -1,0 +1,32 @@
+{
+  "name": "deep-research",
+  "version": "0.2.0",
+  "description": "Multi-step, cited research: search, screen, verify and write a structured report with a validated reference list.",
+  "author": { "name": "mayw-hub", "url": "https://github.com/mayw-hub" },
+  "homepage": "https://github.com/mayw-hub/Plugin",
+  "repository": "https://github.com/mayw-hub/Plugin",
+  "license": "MIT",
+  "keywords": ["research", "deep-research", "literature-review", "citations", "pubmed", "europe-pmc"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Deep Research",
+    "shortDescription": "Cited multi-step research with literature search and verification",
+    "longDescription": "Plans a research question, searches literature (Europe PMC / PubMed) and the web, screens and verifies sources, and writes a structured report with validated [n] citations and a reference list saved to Documents/DeepResearch.",
+    "developerName": "mayw-hub",
+    "category": "Education & Research",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Use deep-research to review the literature on a clinical topic and give an evidence table.",
+      "Use deep-research to compare options for a technical or market decision with cited sources.",
+      "Use deep-research to prepare a cited briefing for a 25-minute talk, including figures worth showing."
+    ],
+    "websiteURL": "https://github.com/mayw-hub/Plugin",
+    "privacyPolicyURL": "https://github.com/mayw-hub/Plugin/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/mayw-hub/Plugin/blob/main/TERMS.md",
+    "brandColor": "#0F766E",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo.png",
+    "screenshots": []
+  }
+}

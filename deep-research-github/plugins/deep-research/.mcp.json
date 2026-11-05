@@ -1,0 +1,1 @@
+{"mcpServers":{"deep_research":{"command":"node","args":["./dist/server.mjs"],"cwd":".","default_tools_approval_mode":"approve","startup_timeout_sec":20,"tool_timeout_sec":120}}}

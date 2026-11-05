@@ -1,0 +1,4 @@
+node_modules/
+.deep-research/
+*.log
+.npm-cache/
