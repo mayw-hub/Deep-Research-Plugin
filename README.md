@@ -32,7 +32,7 @@
    codex plugin marketplace add C:\Users\你\Documents\deep-research
    ```
 
-   也可以直接用 GitHub 地址:`codex plugin marketplace add <你的用户名>/<仓库名>`。*(GitHub 地址这种方式作者尚未实测,若失败请用本地路径。)*
+   也可以直接用 GitHub 地址:`codex plugin marketplace add mayw-hub/Deep-Research-Plugin`。*(GitHub 地址这种方式作者尚未实测,若失败请用本地路径。)*
 3. **完全退出并重新启动 Codex 桌面端。**
 4. 打开左侧的 **插件(Plugins)目录**,选择名为 **「Deep Research (local)」** 的市场(分类:Education & Research)。
 5. 点击 **Deep Research → 安装(Install)**。
@@ -130,7 +130,7 @@ MIT,见 [LICENSE](LICENSE)。
    codex plugin marketplace add C:\Users\you\Documents\deep-research
    ```
 
-   You can also use the GitHub form `codex plugin marketplace add <owner>/<repo>`. *(The GitHub form has not been tested by the author; if it fails, use the local path.)*
+   You can also use the GitHub form `codex plugin marketplace add mayw-hub/Deep-Research-Plugin`. *(The GitHub form has not been tested by the author; if it fails, use the local path.)*
 3. **Fully quit and restart the Codex desktop app.**
 4. Open the **Plugins directory** in the left sidebar and choose the marketplace named **"Deep Research (local)"** (category: Education & Research).
 5. Click **Deep Research → Install**.

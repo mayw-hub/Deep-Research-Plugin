@@ -26,10 +26,10 @@ No built-in general web search; literature search covers Europe PMC only. Access
 
 ## Owner-supplied items (TODO, do not invent)
 
-- [x] Homepage or repository URL: https://github.com/mayw-hub/Plugin
-- [x] Privacy policy URL: https://github.com/mayw-hub/Plugin/blob/main/PRIVACY.md (the file must be pushed to the `main` branch for the link to work)
-- [x] Terms of service URL: https://github.com/mayw-hub/Plugin/blob/main/TERMS.md (same)
-- [x] Support contact: https://github.com/mayw-hub/Plugin/issues (GitHub Issues must be enabled; add an email if the submission form requires one)
+- [x] Homepage or repository URL: https://github.com/mayw-hub/Deep-Research-Plugin
+- [x] Privacy policy URL: https://github.com/mayw-hub/Deep-Research-Plugin/blob/main/PRIVACY.md (the file must be pushed to the `main` branch for the link to work)
+- [x] Terms of service URL: https://github.com/mayw-hub/Deep-Research-Plugin/blob/main/TERMS.md (same)
+- [x] Support contact: https://github.com/mayw-hub/Deep-Research-Plugin/issues (GitHub Issues must be enabled; add an email if the submission form requires one)
 - [ ] Screenshots
 
 Recheck the current OpenAI plugin submission requirements before submitting.
